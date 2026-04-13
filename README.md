@@ -9,4 +9,5 @@
 [High Level Design Report](https://github.com/githappensstobb-coder/githappensstobb-coder.github.io/blob/main/B%C4%B0L%20495%20Reports/High_Level_Design_Report.docx)
 
 ### BİL 496 Reports
-[Low Level Design Report](https://github.com/githappensstobb-coder/githappensstobb-coder.github.io/blob/main/B%C4%B0L%20496%20Reports/Low%20Level%20Design%20Report.pdf)
+[Low Level Design Report](https://github.com/githappensstobb-coder/githappensstobb-coder.github.io/blob/main/B%C4%B0L%20496%20Reports/Low%20Level%20Design%20Report.pdf) <br>
+[Test Plan Report](https://github.com/githappensstobb-coder/githappensstobb-coder.github.io/blob/main/B%C4%B0L%20496%20Reports/Test%20Plan%20Report.pdf)
